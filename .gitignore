@@ -1,0 +1,4 @@
+# image ignore folder
+/images 
+*.log
+server.js
